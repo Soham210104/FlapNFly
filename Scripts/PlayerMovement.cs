@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class FadFadna : MonoBehaviour
+public class PlayerMovement : MonoBehaviour
 {
     private Vector3 direction;
     public float gravity = -9.8f;//will be heloing for the downfall of the bird
